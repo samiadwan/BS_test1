@@ -1,0 +1,15 @@
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\bin\Debug\net6.0\AndOr_Operators.exe
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\bin\Debug\net6.0\AndOr_Operators.deps.json
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\bin\Debug\net6.0\AndOr_Operators.runtimeconfig.json
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\bin\Debug\net6.0\AndOr_Operators.dll
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\bin\Debug\net6.0\AndOr_Operators.pdb
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\obj\Debug\net6.0\AndOr_Operators.csproj.AssemblyReference.cache
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\obj\Debug\net6.0\AndOr_Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\obj\Debug\net6.0\AndOr_Operators.AssemblyInfoInputs.cache
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\obj\Debug\net6.0\AndOr_Operators.AssemblyInfo.cs
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\obj\Debug\net6.0\AndOr_Operators.csproj.CoreCompileInputs.cache
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\obj\Debug\net6.0\AndOr_Operators.dll
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\obj\Debug\net6.0\refint\AndOr_Operators.dll
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\obj\Debug\net6.0\AndOr_Operators.pdb
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\obj\Debug\net6.0\AndOr_Operators.genruntimeconfig.cache
+E:\BS23_tarinee\CSHARP_BASIC\AndOr_Operators\AndOr_Operators\obj\Debug\net6.0\ref\AndOr_Operators.dll

@@ -1,0 +1,15 @@
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\bin\Debug\net6.0\IfElse.exe
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\bin\Debug\net6.0\IfElse.deps.json
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\bin\Debug\net6.0\IfElse.runtimeconfig.json
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\bin\Debug\net6.0\IfElse.dll
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\bin\Debug\net6.0\IfElse.pdb
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\obj\Debug\net6.0\IfElse.csproj.AssemblyReference.cache
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\obj\Debug\net6.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\obj\Debug\net6.0\IfElse.AssemblyInfoInputs.cache
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\obj\Debug\net6.0\IfElse.AssemblyInfo.cs
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\obj\Debug\net6.0\IfElse.csproj.CoreCompileInputs.cache
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\obj\Debug\net6.0\IfElse.dll
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\obj\Debug\net6.0\refint\IfElse.dll
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\obj\Debug\net6.0\IfElse.pdb
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\obj\Debug\net6.0\IfElse.genruntimeconfig.cache
+E:\BS23_tarinee\CSHARP_BASIC\IfElse\IfElse\obj\Debug\net6.0\ref\IfElse.dll

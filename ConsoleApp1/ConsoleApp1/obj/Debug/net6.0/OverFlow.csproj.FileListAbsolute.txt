@@ -1,0 +1,5 @@
+E:\BS23_tarinee\CSHARP_BASIC\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OverFlow.csproj.AssemblyReference.cache
+E:\BS23_tarinee\CSHARP_BASIC\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OverFlow.GeneratedMSBuildEditorConfig.editorconfig
+E:\BS23_tarinee\CSHARP_BASIC\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OverFlow.AssemblyInfoInputs.cache
+E:\BS23_tarinee\CSHARP_BASIC\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OverFlow.AssemblyInfo.cs
+E:\BS23_tarinee\CSHARP_BASIC\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OverFlow.csproj.CoreCompileInputs.cache

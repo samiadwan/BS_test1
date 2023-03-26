@@ -1,0 +1,15 @@
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\obj\Debug\net6.0\Ternary.csproj.AssemblyReference.cache
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\obj\Debug\net6.0\Ternary.GeneratedMSBuildEditorConfig.editorconfig
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\obj\Debug\net6.0\Ternary.AssemblyInfoInputs.cache
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\obj\Debug\net6.0\Ternary.AssemblyInfo.cs
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\obj\Debug\net6.0\Ternary.csproj.CoreCompileInputs.cache
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\bin\Debug\net6.0\Ternary.exe
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\bin\Debug\net6.0\Ternary.deps.json
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\bin\Debug\net6.0\Ternary.runtimeconfig.json
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\bin\Debug\net6.0\Ternary.dll
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\bin\Debug\net6.0\Ternary.pdb
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\obj\Debug\net6.0\Ternary.dll
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\obj\Debug\net6.0\refint\Ternary.dll
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\obj\Debug\net6.0\Ternary.pdb
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\obj\Debug\net6.0\Ternary.genruntimeconfig.cache
+E:\BS23_tarinee\CSHARP_BASIC\Ternary\Ternary\obj\Debug\net6.0\ref\Ternary.dll
